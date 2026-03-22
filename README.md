@@ -69,10 +69,6 @@ If you're working on something in **data, product, or growth** or just want to t
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/the-kartikey-naharia)
 [![Email](https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahariakartikey@gmail.com)
 
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>

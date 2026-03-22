@@ -2,9 +2,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kartikey%20Naharia&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20%20%7C%20Product%20%7C%20UX%20&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/the-kartikey-naharia)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahariakartikey@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kartikey-1801)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Product Strategy](https://img.shields.io/badge/Product%20Strategy-0052CC?style=for-the-badge&logo=confluence&logoColor=white)
+![Feature Prioritization](https://img.shields.io/badge/Feature%20Prioritization-FF8B00?style=for-the-badge&logo=jira&logoColor=white)
+![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-00875A?style=for-the-badge&logo=statuspage&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-E91E8C?style=for-the-badge&logo=googleoptimize&logoColor=white)
+![UX Research](https://img.shields.io/badge/UX%20Research-FF6B6B?style=for-the-badge&logo=googleforms&logoColor=white)
 
 </div>
 

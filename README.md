@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kartikey%20Naharia&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20%20%7C%20Product%20%7C%20UX%20&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory%20Data%20Analysis-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Exploratory Data Analysis & Visualization](https://img.shields.io/badge/Exploratory%20Data%20Analysis-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white)
 ![KPI Tracking](https://img.shields.io/badge/KPI%20Definition%20%26%20Tracking-008080?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -13,13 +12,11 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Product Management](https://img.shields.io/badge/Product%20Management-6C47FF?style=for-the-badge&logo=productboard&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Product Strategy](https://img.shields.io/badge/Product%20Strategy-0052CC?style=for-the-badge&logo=confluence&logoColor=white)
+![Product Strategy & UX](https://img.shields.io/badge/Product%20Strategy-0052CC?style=for-the-badge&logo=confluence&logoColor=white)
 ![Feature Prioritization](https://img.shields.io/badge/Feature%20Prioritization-FF8B00?style=for-the-badge&logo=jira&logoColor=white)
 ![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-00875A?style=for-the-badge&logo=statuspage&logoColor=white)
 ![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-E91E8C?style=for-the-badge&logo=googleoptimize&logoColor=white)
-![UX Research](https://img.shields.io/badge/UX%20Research-FF6B6B?style=for-the-badge&logo=googleforms&logoColor=white)
 
 </div>
 

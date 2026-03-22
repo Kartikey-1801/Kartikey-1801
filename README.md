@@ -29,8 +29,8 @@ A 2025 B.Tech Graduate from Indian Institute of Technology (Indian School of Min
 - 📊 I love digging into messy datasets and building dashboards that actually get *used*
 - 🧪 I run A/B tests, track funnels, and obsess over *why* users do what they do
 - 🎨 I design product flows and prototypes with a user-first lens using Figma
-- 🚀 I think in systems — GTM strategies, retention loops, product-market fit
-- 🏆 Competitive by nature — led teams under pressure, built high-stakes strategies (yes, even in Valorant)
+- 🚀 I think in systems <GTM strategies, retention loops, product-market fit>
+- 🏆 Competitive by nature <led teams under pressure, built high-stakes strategies (yes, even in Valorant)>
 
 > *"If you do not have insights on your data, you are just another opinion giver."*
 
